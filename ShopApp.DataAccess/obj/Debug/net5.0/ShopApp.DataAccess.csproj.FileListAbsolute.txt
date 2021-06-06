@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\ucuncubinyil_yazılım_kursu\MVC_Core\ShopApp\ShopApp.DataAccess\bin\Debug\net5.0\ShopApp.Entities.dll
+C:\Users\USER\Desktop\ucuncubinyil_yazılım_kursu\MVC_Core\ShopApp\ShopApp.DataAccess\obj\Debug\net5.0\ShopApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ucuncubinyil_yazılım_kursu\MVC_Core\ShopApp\ShopApp.DataAccess\obj\Debug\net5.0\ShopApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ucuncubinyil_yazılım_kursu\MVC_Core\ShopApp\ShopApp.DataAccess\obj\Debug\net5.0\ShopApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ucuncubinyil_yazılım_kursu\MVC_Core\ShopApp\ShopApp.DataAccess\obj\Debug\net5.0\ShopApp.DataAccess.AssemblyInfo.cs
