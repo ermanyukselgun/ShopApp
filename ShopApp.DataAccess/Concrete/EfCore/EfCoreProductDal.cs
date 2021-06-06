@@ -36,6 +36,11 @@ namespace ShopApp.DataAccess.Concrete.EfCore
             throw new NotImplementedException();
         }
 
+        public IEnumerable<Product> GetPopularProduct()
+        {
+            throw new NotImplementedException();
+        }
+
         public void Update(Product entity)
         {
             throw new NotImplementedException();
