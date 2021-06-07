@@ -9,9 +9,8 @@ using System.Threading.Tasks;
 
 namespace ShopApp.DataAccess.Concrete.EfCore
 {
-    public class EfCoreProductDal : EfCoreGenericRepository<Product, ShopContext>, IProductDal
+    public class EfCoreCategoryDal : EfCoreGenericRepository<Category, ShopContext>, ICategoryDal
     {
-        
         //EFCoreGenericRepo sayesinde alltakilere gerek kalmamıs oldu yukardada ıProductDal ı sildik gerek kalmadı
         //ShopContext db = new ShopContext();
         //public void Create(Product entity)
@@ -49,9 +48,37 @@ namespace ShopApp.DataAccess.Concrete.EfCore
         //{
         //    throw new NotImplementedException();
         //}
-        public IEnumerable<Product> GetPopularProduct()
-        {
-            throw new NotImplementedException();
-        }
+
+        //ShopContext db = new ShopContext();
+        //public void Create(Category entity)
+        //{
+        //    db.Categories.Add(entity);
+        //    db.SaveChanges();
+        //}
+
+        //public void Delete(Category entity)
+        //{
+        //    throw new NotImplementedException();
+        //}
+
+        //public IQueryable<Category> GetAll(Expression<Func<Category, bool>> filter)
+        //{
+        //    throw new NotImplementedException();
+        //}
+
+        //public Category GetById(int id)
+        //{
+        //    throw new NotImplementedException();
+        //}
+
+        //public Category GetOne(Expression<Func<Category, bool>> filter)
+        //{
+        //    throw new NotImplementedException();
+        //}
+
+        //public void Update(Category entity)
+        //{
+        //    throw new NotImplementedException();
+        //}
     }
 }

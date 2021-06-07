@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\ucuncubinyil_yazılım_kursu\MVC_Core\ShopApp\ShopApp.Business\bin\Debug\net5.0\ShopApp.Business.deps.json
+C:\Users\USER\Desktop\ucuncubinyil_yazılım_kursu\MVC_Core\ShopApp\ShopApp.Business\bin\Debug\net5.0\ShopApp.Business.dll
+C:\Users\USER\Desktop\ucuncubinyil_yazılım_kursu\MVC_Core\ShopApp\ShopApp.Business\bin\Debug\net5.0\ref\ShopApp.Business.dll
+C:\Users\USER\Desktop\ucuncubinyil_yazılım_kursu\MVC_Core\ShopApp\ShopApp.Business\bin\Debug\net5.0\ShopApp.Business.pdb
+C:\Users\USER\Desktop\ucuncubinyil_yazılım_kursu\MVC_Core\ShopApp\ShopApp.Business\obj\Debug\net5.0\ShopApp.Business.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ucuncubinyil_yazılım_kursu\MVC_Core\ShopApp\ShopApp.Business\obj\Debug\net5.0\ShopApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ucuncubinyil_yazılım_kursu\MVC_Core\ShopApp\ShopApp.Business\obj\Debug\net5.0\ShopApp.Business.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ucuncubinyil_yazılım_kursu\MVC_Core\ShopApp\ShopApp.Business\obj\Debug\net5.0\ShopApp.Business.AssemblyInfo.cs
+C:\Users\USER\Desktop\ucuncubinyil_yazılım_kursu\MVC_Core\ShopApp\ShopApp.Business\obj\Debug\net5.0\ShopApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ucuncubinyil_yazılım_kursu\MVC_Core\ShopApp\ShopApp.Business\obj\Debug\net5.0\ShopApp.Business.dll
+C:\Users\USER\Desktop\ucuncubinyil_yazılım_kursu\MVC_Core\ShopApp\ShopApp.Business\obj\Debug\net5.0\ref\ShopApp.Business.dll
+C:\Users\USER\Desktop\ucuncubinyil_yazılım_kursu\MVC_Core\ShopApp\ShopApp.Business\obj\Debug\net5.0\ShopApp.Business.pdb

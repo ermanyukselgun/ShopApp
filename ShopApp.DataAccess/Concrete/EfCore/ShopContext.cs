@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using ShopApp.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,12 @@ namespace ShopApp.DataAccess.Concrete.EfCore
 {
     class ShopContext: DbContext
     {
-            
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlServer(@"Server=NIRVANA;Database=ShopApp;")
+        }
+
+        public DbSet<Product> Products { get; set; } //Pluraize Her classın adı sonuna  s takısı ekler 
+        public DbSet<Category> Categories { get; set; }
     }
 }
