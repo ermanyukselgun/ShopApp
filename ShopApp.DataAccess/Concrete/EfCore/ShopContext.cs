@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 
 namespace ShopApp.DataAccess.Concrete.EfCore
 {
-    class ShopContext: DbContext
+    public class ShopContext: DbContext
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=NIRVANA;Database=ShopApp;")
+            optionsBuilder.UseSqlServer(@"Server=NIRVANA;Database=ShopApp;Integrated Security=true");
         }
 
         public DbSet<Product> Products { get; set; } //Pluraize Her classın adı sonuna  s takısı ekler 

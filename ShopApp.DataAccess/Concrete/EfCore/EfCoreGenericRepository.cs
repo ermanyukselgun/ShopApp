@@ -31,7 +31,7 @@ namespace ShopApp.DataAccess.Concrete.EfCore
             }
         }
 
-        public List<T> GetAll(Expression<Func<T, bool>> filter)
+        public virtual List<T> GetAll(Expression<Func<T, bool>> filter)
         {
             using (var context = new TContext())
             {
